@@ -2482,6 +2482,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f74889c-2def-4ff8-b6cf-68de7ce5a6d0")
 		)
@@ -2686,6 +2695,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C50254"
+			(at 187.96 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dac32fda-de3a-45e9-b4d9-51b5669f45ab")
 		)
@@ -2776,7 +2794,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2df5f2d1-2404-4b22-a26a-0c7359c005ca")
 		(property "Reference" "J2"
@@ -2814,6 +2832,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 63.5 153.67 0)
 			(effects
 				(font
@@ -2910,6 +2937,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 152.4 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "795da633-eaa1-44f7-aa67-f502b2fedea6")
 		)
@@ -2932,7 +2968,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4b5a7e82-4c95-4936-97d7-bac2a5ec7fc3")
 		(property "Reference" "J4"
 			(at 111.76 139.7 0)
@@ -2969,6 +3005,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 111.76 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 111.76 156.21 0)
 			(effects
 				(font
@@ -3056,6 +3101,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 134.62 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C307331"
 			(at 134.62 41.91 0)
 			(effects
 				(font
@@ -3266,6 +3320,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 96.52 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a0532e9f-6168-4dcb-8463-688c4bc46950")
 		)
@@ -3403,6 +3466,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C354533"
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "db8eb675-3e03-4c8c-81a2-6aee6b9ca93f")
 		)
@@ -3492,7 +3564,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7650dfff-d6fd-4648-af7c-5192053633d9")
 		(property "Reference" "J3"
 			(at 87.63 139.7 0)
@@ -3529,6 +3601,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 87.63 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 87.63 156.21 0)
 			(effects
 				(font
@@ -3758,6 +3839,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 162.56 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f63c07ee-446e-4219-8041-b62fdd4a23e0")
 		)
@@ -3848,7 +3938,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b15f1a9c-6b75-4126-8f38-32c05fcc55b2")
 		(property "Reference" "J1"
@@ -3886,6 +3976,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
 			(at 39.37 153.67 0)
 			(effects
 				(font
@@ -3974,6 +4073,15 @@
 			)
 		)
 		(property "Description" "PMIC, LED Driver, Battery Charger, QFN-32"
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7466043"
 			(at 142.24 91.44 0)
 			(effects
 				(font
@@ -4145,6 +4253,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 172.72 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fac9ced3-ae28-4773-8ee3-009efc6f107e")
 		)
@@ -4207,6 +4324,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 187.96 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15849"
 			(at 187.96 62.23 0)
 			(effects
 				(font
@@ -4351,6 +4477,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C354533"
+			(at 196.85 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45e63bc9-db0a-4649-8431-d6bc16d077a9")
 		)
@@ -4413,6 +4548,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 208.28 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19702"
 			(at 208.28 88.9 0)
 			(effects
 				(font

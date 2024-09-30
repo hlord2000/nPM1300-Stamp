@@ -2927,14 +2927,12 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 111.76 153.67 0)
-		(mirror y)
+		(at 111.76 156.21 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4b5a7e82-4c95-4936-97d7-bac2a5ec7fc3")
 		(property "Reference" "J4"
 			(at 111.76 139.7 0)
@@ -2953,7 +2951,7 @@
 			)
 		)
 		(property "Footprint" "nPM1300-Stamp_Connector_PinHeader:nPM1300-PinHeader_1x08_P2.00mm_Vertical"
-			(at 111.76 153.67 0)
+			(at 111.76 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,7 +2960,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 153.67 0)
+			(at 111.76 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,7 +2969,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 111.76 153.67 0)
+			(at 111.76 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3489,14 +3487,12 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 87.63 153.67 0)
-		(mirror y)
+		(at 87.63 156.21 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7650dfff-d6fd-4648-af7c-5192053633d9")
 		(property "Reference" "J3"
 			(at 87.63 139.7 0)
@@ -3515,7 +3511,7 @@
 			)
 		)
 		(property "Footprint" "nPM1300-Stamp_Connector_PinHeader:nPM1300-PinHeader_1x08_P2.00mm_Vertical"
-			(at 87.63 153.67 0)
+			(at 87.63 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,7 +3520,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.63 153.67 0)
+			(at 87.63 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3533,7 +3529,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 87.63 153.67 0)
+			(at 87.63 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)

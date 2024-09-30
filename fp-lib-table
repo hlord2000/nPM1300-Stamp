@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nPM1300-Stamp_Connector_PinHeader")(type "KiCad")(uri "${KIPRJMOD}/lib/nPM1300-Stamp_Connector_PinHeader.pretty")(options "")(descr ""))
+)

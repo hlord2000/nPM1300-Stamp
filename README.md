@@ -22,4 +22,12 @@ Compact module integrating Nordic Semiconductor's nPM1300 PMIC with all necessar
 - Schematic symbol available
 - PCB footprint available
 
+## Requirements for Design
+
+- VSET1 and VSET2 resistors must be provided externally
+- VDDIO must be provided externally, but could also be an output from one of your bucks or LDOs on the nPM1300
+- If you use the LDOs, please include the recommended decoupling capacitors outside of the stamp.
+- I2C pull-ups are required externally
+- ESD protection must be provided externally
+
 For detailed specifications, visit [Nordic Semiconductor's nPM1300 page](https://www.nordicsemi.com/Products/nPM1300).
